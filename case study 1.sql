@@ -6,3 +6,4 @@ dannys_diner.sales s
 left join dannys_diner.menu m using (product_id)
 group by 1
 order by 1;
+-- Customer A is the highest spending customer with 76
