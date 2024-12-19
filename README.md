@@ -37,12 +37,12 @@ Data Sources:
 2.	customer_nodes: Tracks customer connections to different nodes, including the duration of their connections.
 3.	nodes: Lists the types of nodes used in the network and their functionalities.
 4.	Customer_transactions: Contains information about the transaction types, dates and amount paid by each customer.
-5.	
+	
 # Tasks Performed
 - The customer node usage patterns data was analyzed using the Azure Data Studio.
 - I explored and validated the dataset to ensure its accuracy and completeness.
 - I used SQL techniques like JOINs, GROUP BY, ORDER BY, and WHERE clause to perform more detailed analysis and answer the following questions:
-- 
+
 •	What are the number of nodes per region?
 •	How many customers are allocated to each region?
 •	What is the total amount for each transaction type?
